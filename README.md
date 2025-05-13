@@ -13,7 +13,7 @@ This is a simplified **Wordle-style word guessing game** implemented in **LC-3 A
 
 **LC3web** (browser-based, no install):
 
-👉 [https://lc3tutor.org]([https://lc3tutor.org](https://wchargin.com/lc3web/))
+👉 [https://lc3tutor.org](https://wchargin.com/lc3web/)
 
 ---
 
