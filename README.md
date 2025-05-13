@@ -10,13 +10,10 @@ This is a simplified **Wordle-style word guessing game** implemented in **LC-3 A
 
 ## 🔗 Simulator Link
 
-You can run and test this program using the **LC-3 Simulator (LC3tools)** from the University of Texas at Austin:
 
-👉 [http://www.cs.virginia.edu/~evans/cs216/guides/lc3tools/](http://www.cs.virginia.edu/~evans/cs216/guides/lc3tools/)
+**LC3web** (browser-based, no install):
 
-Another option is **LC3web** (browser-based, no install):
-
-👉 [https://lc3tutor.org](https://lc3tutor.org)
+👉 [https://lc3tutor.org]([https://lc3tutor.org](https://wchargin.com/lc3web/))
 
 ---
 
